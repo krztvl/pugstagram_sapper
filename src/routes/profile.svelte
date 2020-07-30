@@ -9,11 +9,11 @@
 </style>
 
 <svelte:head>
-  <title>Configuración dle perfil</title>
+  <title>Configuración del Perfil</title>
 </svelte:head>
 
 <Main>
   <div class="Profile">
-    <h2>Configuración del Perfil</h2>
+    <h2>Configuración del perfil</h2>
   </div>
 </Main>
