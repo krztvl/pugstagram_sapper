@@ -3,15 +3,19 @@
   export let status;
   export let error;
 
-  const dev = process.env.NODE.ENV === "development";
+  const dev = process.env.NODE_ENV === "development";
 </script>
 
 <style>
   .Error {
     padding: 4em 0 0 0;
   }
-  h1 {
+  h1,
+  p {
     margin: 0 auto;
+  }
+
+  h1 {
     font-size: 2.8em;
     font-weight: 700;
     margin: 0 0 0.5em 0;

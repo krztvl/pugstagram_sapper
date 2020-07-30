@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-  <title>Pgustagram</title>
+  <title>Pugstagram</title>
 </svelte:head>
 
 <Main>

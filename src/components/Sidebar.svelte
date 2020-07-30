@@ -10,7 +10,7 @@
 <style>
   .Sidebar {
     position: relative;
-    padding: 2.5em 0 0 0;
+    padding: 4.5em 0 0 0;
   }
   .Sidebar-container {
     position: fixed;

@@ -9,7 +9,7 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-gap: 2em;
-    padding: 3em 0;
+    padding: 2em 0;
   }
 </style>
 
